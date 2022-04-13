@@ -3,9 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Aplikasi/Activity6_PAM/app/src/main/res/layout/activity_edit_data.xml" value="0.264" />
+        <entry key="..\:/Aplikasi/Activity6_PAM/app/src/main/res/layout/activity_edit_teman.xml" value="0.264" />
         <entry key="..\:/Aplikasi/Activity6_PAM/app/src/main/res/layout/activity_main.xml" value="0.22180451127819548" />
         <entry key="..\:/Aplikasi/Activity6_PAM/app/src/main/res/layout/activity_teman_baru.xml" value="0.24635416666666668" />
         <entry key="..\:/Aplikasi/Activity6_PAM/app/src/main/res/layout/row_data_teman.xml" value="0.23229166666666667" />
+        <entry key="..\:/Aplikasi/Activity6_PAM/app/src/main/res/menu/popup_menu.xml" value="0.1" />
       </map>
     </option>
   </component>
